@@ -191,7 +191,7 @@ Bu derste Aggregate fonksiyonlarini ogrendim.
 - MAX fonksiyonu; sayisal degerlerden olusan sutunun en yuksek degerini alir.
 - MIN fonksiyonu; sayisal degerlerden olusan sutunun en dusuk degerini alir.
 
-!! Aggregate fonksiyonlardan sonra sutun kullanimi olmaz
+!! GROUP BY kullanılmadığı sürece, SELECT içinde aggregate fonksiyonlar ile normal sütunlar aynı anda kullanılamaz
 
 - 1:
 
